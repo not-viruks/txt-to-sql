@@ -1,0 +1,14 @@
+C:\Users\andri\source\repos\mysql\bin\Debug\mysql.exe.config
+C:\Users\andri\source\repos\mysql\bin\Debug\mysql.exe
+C:\Users\andri\source\repos\mysql\bin\Debug\mysql.pdb
+C:\Users\andri\source\repos\mysql\obj\Debug\mysql.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\mysql\obj\Debug\mysql.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\mysql\obj\Debug\mysql.exe
+C:\Users\andri\source\repos\mysql\obj\Debug\mysql.pdb
+C:\Users\andri\source\repos\mysql\bin\Debug\MySql.Data.dll
+C:\Users\andri\source\repos\mysql\bin\Debug\System.Memory.dll
+C:\Users\andri\source\repos\mysql\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andri\source\repos\mysql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andri\source\repos\mysql\bin\Debug\System.Buffers.dll
+C:\Users\andri\source\repos\mysql\bin\Debug\MySql.Data.xml
+C:\Users\andri\source\repos\mysql\obj\Debug\mysql.csproj.CopyComplete
